@@ -1,4 +1,4 @@
-"# DevRadar-react-native" 
+# DevRadar-react-native
 
 This project was created from concepts learned and made available in the week 10 of rocketseat ominstack. In this project, geolocation concepts and API integration were used.
 
